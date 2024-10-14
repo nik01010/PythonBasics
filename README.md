@@ -1,2 +1,2 @@
 # PythonBasics
-Basic python commands
+Basic Python commands
